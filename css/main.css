@@ -1,0 +1,67 @@
+
+.navbar-default .navbar-nav > li > a {
+     color: #F4F0BB ;
+}
+.navbar-default .navbar-brand {
+    color: #F4F0BB ;
+}
+.navbar {
+	margin-bottom:0%;
+	border:1px solid #EB4545;
+	background-color: #EB4545;
+	border-radius:0%;
+	color:#F7DAA1;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+ color:white;
+ background-color: transparent;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+ color:white; ;
+ background-color:transparent;
+}
+.subtle {
+	margin-left:20%;
+}
+.big-icecream {
+	background:url(../img/creamy.jpg); 
+	background-position:center;
+}
+.oscuro {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding:10%;
+
+}
+.texto-crema {
+	color:#F7DAA1;
+}
+.seccion-pastel {
+	background-color:#F7DAA1;
+	padding:5%;
+}
+.texto-burdeo {
+	color:#EB4545;
+	text-align:center;
+}
+.texto-merri {
+	font-family: 'Merriweather', serif;
+}
+.fondo-burdeo {
+	background-color:#EB4545;
+	padding:2%; 
+}
+.txt-center{
+	text-align:center;
+}
+.fa {
+	color:#EB4545;
+	font-size:100px;
+	margin-left:40%;
+	margin-bottom:5%;
+}
+footer {
+	background-color:#EB4545;
+	padding:2%;
+}
